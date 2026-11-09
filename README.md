@@ -1,7 +1,7 @@
 # Awesome-Automated-Invoicing-PDF-Invoices
 # Awesome-Automated-Invoicing-PDF-Invoices
 
-# Top Automated Invoicing & PDF Invoices Ecosystem
+## Top Automated Invoicing & PDF Invoices Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Invoice Automation, PDF Generation & Billing Workflow Orchestration*  
