@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Automated-Invoicing-PDF-Invoices/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Invoicing-PDF-Invoices?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Automated-Invoicing-PDF-Invoices/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Invoicing-PDF-Invoices?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Invoicing-PDF-Invoices/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Automated-Invoicing-PDF-Invoices?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Invoicing-PDF-Invoices/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Automated-Invoicing-PDF-Invoices" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,9 +66,9 @@ The sector is **moderately to highly fragmented** rather than a winner-take-all 
 
 ## 💻 Open-Source GitHub Projects
 
-*Self-hosted invoicing platforms, modern PDF rendering engines, and developer libraries — sorted in descending order by GitHub star count.*
+*Self-hosted invoicing platforms, modern PDF rendering engines, and developer libraries — sorted in descending order by GitHub Stars_Count.*
 
-| Repository | Stars | Description | Tech Stack |
+| Repository | GitHub_Stars | Description | Tech Stack |
 | :--- | :---: | :--- | :--- |
 | **[midday-ai/midday](https://github.com/midday-ai/midday)** | [![Stars](https://img.shields.io/github/stars/midday-ai/midday?style=social&color=white)](https://github.com/midday-ai/midday/stargazers) | All-in-one financial operating system with automated invoicing, reconciliation, storage, and AI assistant. | TypeScript / Next.js |
 | **[invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)** | [![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) | Flagship open-source invoicing, quoting, and payment platform with client portals and multi-currency billing. | PHP / Laravel / Flutter |
