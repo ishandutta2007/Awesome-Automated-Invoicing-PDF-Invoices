@@ -1,5 +1,4 @@
 # Awesome-Automated-Invoicing-PDF-Invoices
-# Awesome-Automated-Invoicing-PDF-Invoices
 
 ## Top Automated Invoicing & PDF Invoices Ecosystem
 
@@ -23,35 +22,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Chargebee Invoicing](https://www.chargebee.com/)**  
-  Subscription billing and invoicing platform with usage-based metering, multi-currency support, tax handling, and ASC 606/IFRS 15 revenue recognition for scaling enterprises [citation:1][citation:13].
-
-- **[FreshBooks Invoicing](https://www.freshbooks.com/)**  
-  Small-business accounting suite with customizable invoice templates, recurring billing, automated payment reminders, and downloadable PDF/Word/Excel formats [citation:2].
-
-- **[QuickBooks Online Invoicing](https://quickbooks.intuit.com/)**  
-  Intuit's invoicing module with customer management, recurring invoices, online payment options, and automatic reminder scheduling [citation:3][citation:14].
-
-- **[Wave Invoicing](https://www.waveapps.com/)**  
-  Free invoicing for small businesses with three template styles, recurring invoice scheduling, automated reminders, and online payment acceptance [citation:4][citation:15].
-
-- **[Xero Invoicing](https://www.xero.com/)**  
-  Cloud accounting platform with unlimited users, automated reminders, repeating invoices, online payment options, and 1000+ app integrations [citation:5].
-
-- **[Invoiced](https://www.invoiced.com/)**  
-  Accounts receivable automation platform with AI-assisted invoicing, collections workflows, multi-rail payments (ACH, SEPA, Bacs), and real-time cash forecasting [citation:6].
-
-- **[Bill.com Invoicing](https://www.bill.com/)**  
-  AP/AR automation with invoice intake via AI extraction, approval workflows, BILL Network vendor payments, and 1099/W-9 e-filing support [citation:7].
-
-- **[Square Invoices](https://squareup.com/)**  
-  Free unlimited invoicing with custom layouts, recurring invoices, milestone-based payment schedules, and digital contracts with e-signatures [citation:8].
-
-- **[Hiveage](https://www.hiveage.com/)**  
-  Online invoicing and billing for freelancers with estimates, 12+ payment gateways, recurring subscriptions, time/expense tracking, and multi-currency support [citation:9].
-
-- **[Invoice Ninja](https://invoiceninja.com/)**  
-  Open-core invoicing platform with 11 invoice templates, recurring billing, client portal, PEPPOL e-invoicing, and REST API access on paid plans [citation:10].
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Chargebee Invoicing](https://www.chargebee.com/)** | Subscription billing and invoicing platform with usage-based metering, multi-currency support, tax handling, and ASC 606/IFRS 15 revenue recognition [citation:1][citation:13]. | $599/mo (Performance plan, billed annually) | Free for first $250,000 cumulative lifetime billing (Starter plan; 0.75% overage fee thereafter). |
+| **[FreshBooks Invoicing](https://www.freshbooks.com/)** | Small-business accounting suite with customizable invoice templates, recurring billing, automated payment reminders, and downloadable PDF/Word/Excel formats [citation:2]. | $23/mo (Lite plan, up to 5 billable clients) | 30-day free trial with full feature access (no credit card required; no permanent free plan). |
+| **[QuickBooks Online Invoicing](https://quickbooks.intuit.com/)** | Intuit's invoicing module with customer management, recurring invoices, online payment options, and automatic reminder scheduling [citation:3][citation:14]. | $38/mo (Simple Start plan, 1 user) | 30-day free trial with full plan access; permanent free tier limited to 2 invoices/mo and 1 connected bank account. |
+| **[Wave Invoicing](https://www.waveapps.com/)** | Free invoicing for small businesses with three template styles, recurring invoice scheduling, automated reminders, and online payment acceptance [citation:4][citation:15]. | $19/mo (Pro plan) | Free forever plan with unlimited invoices and estimates (manual bank imports; 2.9% + $0.60 per card transaction). |
+| **[Xero Invoicing](https://www.xero.com/)** | Cloud accounting platform with unlimited users, automated reminders, repeating invoices, online payment options, and 1000+ app integrations [citation:5]. | $29/mo (Early plan) | 30-day free trial with full access (no credit card required; Early plan limited to 20 invoices/quotes & 5 bills/mo). |
+| **[Invoiced](https://www.invoiced.com/)** | Accounts receivable automation platform with AI-assisted invoicing, collections workflows, multi-rail payments (ACH, SEPA, Bacs), and real-time cash forecasting [citation:6]. | $50/mo (Entry/Startup plan) | 30-day free trial with full platform access (no permanent free plan). |
+| **[Bill.com Invoicing](https://www.bill.com/)** | AP/AR automation with invoice intake via AI extraction, approval workflows, BILL Network vendor payments, and 1099/W-9 e-filing support [citation:7]. | $49/user/mo (Essentials plan) | 30-day free trial for AP/AR software; forever-free plan limited strictly to spend & corporate expense tracking. |
+| **[Square Invoices](https://squareup.com/)** | Free unlimited invoicing with custom layouts, recurring invoices, milestone-based payment schedules, and digital contracts with e-signatures [citation:8]. | $49/location/mo (Plus plan) | Free forever plan with unlimited invoices and estimates (3.3% + 30¢ processing fee; lacks custom layouts & milestone schedules). |
+| **[Hiveage](https://www.hiveage.com/)** | Online invoicing and billing for freelancers with estimates, 12+ payment gateways, recurring subscriptions, time/expense tracking, and multi-currency support [citation:9]. | $19/mo (Basic plan, up to 50 clients) | Free forever plan limited to 5 clients in CRM with unlimited invoices and estimates. |
+| **[Invoice Ninja](https://invoiceninja.com/)** | Open-core invoicing platform with 11 invoice templates, recurring billing, client portal, PEPPOL e-invoicing, and REST API access on paid plans [citation:10]. | $14/mo (Ninja Pro plan, unlimited clients) | Free forever plan limited to 5 clients and 1 user with unlimited invoices (retains Invoice Ninja branding). |
 
 ## Open-Source GitHub Projects
 
